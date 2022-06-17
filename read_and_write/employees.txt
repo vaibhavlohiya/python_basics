@@ -1,0 +1,10 @@
+Jim - Salesman
+Dwight - Salesman
+Pam - Receptionist
+Angela - Accountant
+Creed - Quality_Assurance
+Micheal - Manager
+Oscar - Accountant
+Andy - IdiotAndy - Idiot
+Kelly - Customer ServiceAndy - Idiot
+Kelly - Customer Service
